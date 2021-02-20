@@ -1,0 +1,1 @@
+This is klodowskt's first git project!
